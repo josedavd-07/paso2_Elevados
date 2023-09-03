@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PasajesAereosElevados
+namespace PasajesAereos
 {
     class Program
     {
